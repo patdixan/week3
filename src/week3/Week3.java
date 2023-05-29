@@ -16,6 +16,7 @@ public class Week3 {
     public static void main(String[] args) {
         System.out.println("Lerning github operation");
         System.out.println("#2 Lerning github operation");
+         System.out.println("#3 Lerning github operation");
     }
     
 }
